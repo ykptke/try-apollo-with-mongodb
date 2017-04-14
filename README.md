@@ -10,5 +10,5 @@ clone repository
 
 #### Server
 `yarn && yarn start`
-#### Client
+#### UI
 `yarn && yarn start`
